@@ -1,2 +1,2 @@
 # waterpuddle_html_template
-Waterpuddle is html/css/js template
+Waterpuddle is a html/css/js template
