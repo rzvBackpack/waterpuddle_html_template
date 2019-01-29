@@ -1,6 +1,4 @@
-# waterpuddle_html_template
-Waterpuddle is a html/css/js template
-
+# Waterpuddle - HTML/CSS/JS mobile-ready template
 ## Index page
 ![index](https://i.imgur.com/o3A5sQv.jpg)
 
